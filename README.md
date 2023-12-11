@@ -1,7 +1,9 @@
 # Machine Learning Engineer
 ### Education
-Masters in  Artificial Intelligence
-Bachelors of Electronics Engineering
+Masters in  Artificial Intelligence | Queen Mary University of London (October 2023)
+Bachelors of Electronics Engineering | Mumbai University (June 2018)
+
+
 ### Projects
 #### Car Parking Detection System
 • Developed a robust car parking detection system using the SSD object detection algorithm, employing k‑means
