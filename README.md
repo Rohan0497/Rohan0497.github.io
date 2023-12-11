@@ -29,13 +29,6 @@ on datasets such as MNIST and CIFAR10.
 • Conducted fine‑tuning of hyperparameters and optimized model architectures.
 • Achieved exceptional model performance, emphasizing strong analytical and experimental skills.
 #### Density Estimation with Gaussian Model
-High‑Resolution Image Enhancement with SRCNN
-• Implemented a Super‑Resolution Convolutional Neural Network (SRCNN) model for high‑resolution image processing,
-producing notable improvements in image enhancement.
-• Conducted extensive preprocessing and post‑processing steps to enhance the model’s effectiveness.
-• Evaluated the model’s performance using various quality metrics, achieving impressive results in enhancing image
-clarity.
-• Demonstrated proficiency in image processing techniques and quantitative analysis.
 • Conducted a project on density estimation using a Gaussian model in machine learning, showcasing a sound
 understanding of statistical techniques.
 • Implemented the Gaussian model, conducted data analysis, and optimized model parameters.
