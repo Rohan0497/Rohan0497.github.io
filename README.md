@@ -1,7 +1,7 @@
 # Machine Learning Engineer
 ### Education
-MSc in  Artificial Intelligence | Queen Mary University of London (October 2023)
-Bachelors of Electronics Engineering | Mumbai University (June 2018)
+MSc in  Artificial Intelligence | Queen Mary University of London (Oct 2023)
+Bachelors of Electronics Engineering | Mumbai University (Jun 2018)
 
 
 ### Projects
